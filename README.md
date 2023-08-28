@@ -9,3 +9,6 @@ Bu proje, Python programlama dili kullanılarak geliştirilen bir SMS Bomb arac�
 Kullanıcı dostu arayüz sayesinde hızlı ve kolay kullanım.
 Esnek ve özelleştirilebilir yapı sayesinde yeni SMS servisleri eklemeyi destekler.
 
+# Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
+
